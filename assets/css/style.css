@@ -74,13 +74,13 @@ img {
   animation-play-state: paused;
 }
 .carousel .image-one {
-  background-image: url("assets/images/sl2.jpg");
+  background-image: url("https://github.com/harikrishnan-pv/Tebelepele/blob/30b59c54a2205015112fd382ad2576ea238514b4/assets/images/sl2.jpg?raw=true");
 }
 .carousel .image-two {
-  background-image: url("https://images.unsplash.com/photo-1475053081036-c8eb31d187b3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
+  background-image: url("https://github.com/harikrishnan-pv/Tebelepele/blob/30b59c54a2205015112fd382ad2576ea238514b4/assets/images/sl3.jpg?raw=true");
 }
 .carousel .image-three {
-  background-image: url("https://images.unsplash.com/photo-1525278070609-779c7adb7b71?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
+  background-image: url("https://github.com/harikrishnan-pv/Tebelepele/blob/30b59c54a2205015112fd382ad2576ea238514b4/assets/images/sl4.jpg?raw=true");
 }
 
 @keyframes sliding {
@@ -100,7 +100,7 @@ img {
     transform: translateX(-1600px);
   }
 
-  
+
   100% {
     transform: translateX(0);
   }
@@ -145,6 +145,11 @@ img {
     }
   }
 }
+
+
+
+
+
 
 a:focus,
 input:focus,
