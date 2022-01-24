@@ -83,6 +83,7 @@ img {
   background-image: url("https://github.com/harikrishnan-pv/Tebelepele/blob/30b59c54a2205015112fd382ad2576ea238514b4/assets/images/sl4.jpg?raw=true");
 }
 
+
 @keyframes sliding {
   30% {
     transform: translateX(0);
