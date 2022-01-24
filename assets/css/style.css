@@ -99,6 +99,8 @@ img {
   98% {
     transform: translateX(-1600px);
   }
+
+  
   100% {
     transform: translateX(0);
   }
